@@ -5,7 +5,10 @@
   "author": "Natalie Livanos",
   "repository": {
     "type": "git",
-    "url": "https://github.com/erming/jsonresume-theme-boilerplate"
+    "url": "https://github.com/ViralSymphony/jsonresume-theme-radiant"
+  },
+  "scripts": {
+    "start": "resume serve -t ."
   },
   "license": "MIT",
   "dependencies": {
