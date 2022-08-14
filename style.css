@@ -8,8 +8,8 @@
 }
 
 body {
-  background: var(--floral-white);
-  font: 15px Arial, Helvetica, sans-serif;
+  background: white;
+  font-family: 'Noto Sans', Helvetica, sans-serif;
   line-height: 1.4;
   margin: 50px 0;
   margin-bottom: 100px;
