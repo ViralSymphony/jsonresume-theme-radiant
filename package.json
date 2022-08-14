@@ -8,7 +8,8 @@
     "url": "https://github.com/ViralSymphony/jsonresume-theme-radiant"
   },
   "scripts": {
-    "start": "resume serve -t ."
+    "start": "resume serve -t .",
+    "build": "resume export -t . --format html public/index.html"
   },
   "license": "MIT",
   "dependencies": {
