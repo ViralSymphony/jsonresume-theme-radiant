@@ -5,6 +5,7 @@
   --cg-blue: #0075a2ff;
   --byzantium: #6e2159ff;
   --rich-black: #0a0a0aff;
+  font-size: 15px;
 }
 
 body {
@@ -35,7 +36,6 @@ blockquote {
 }
 #resume {
   margin: 0 auto;
-  max-width: 480px;
   padding: 0 20px;
 }
 #basics {
