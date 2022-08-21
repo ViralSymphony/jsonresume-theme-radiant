@@ -10,7 +10,7 @@
 }
 
 body {
-  background: white;
+  background: gray;
   font-family: 'Noto Sans', Helvetica, sans-serif;
   line-height: 1.4;
   margin: 50px 0;
@@ -37,7 +37,7 @@ blockquote {
 }
 #resume {
   margin: 0 auto;
-  padding: 0 20px;
+  background-color: white;
 }
 #basics {
   margin-bottom: -10px;
@@ -61,3 +61,11 @@ blockquote {
   float: left;
   width: 50%;
 }
+
+.section-profile {
+  border-bottom:.25rem solid var(--satin-sheen-gold);
+  background-color: var(--floral-white);
+
+  /* clip-path: ellipse(100% 100% at top center); */
+}
+
